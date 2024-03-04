@@ -1,2 +1,8 @@
+[web_servers]
 aisyah@192.168.233.186
-nur@192.168.233.22
+[db_servers]
+nur@192.168.233.22 
+[file_servers]
+ica@192.168.233.61 
+[workstations]
+workstation@192.168.233.235
