@@ -1,8 +1,5 @@
-[web_servers]
-aisyah@192.168.233.186
-[db_servers]
-nur@192.168.233.22 
-[file_servers]
-ica@192.168.233.61 
-[workstations]
-workstation@192.168.233.235
+[workstation]
+workstation@192.168.233.198
+
+[kubernetes]
+server1@192.168.233.178
